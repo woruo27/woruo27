@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm 沃若 (woruo), learning **Software Engieering** in [Beijing Institute of Technology, Zhuhai 🏫](https://www.bitzh.edu.cn/).
+I'm 沃若 (woruo)! As most people know, I love **competitive programming**. Got bronze medal 🥉 in ICPC Asia East Continent Final 2019.
 
-As most people know, I like **competitive programming**. Got bronze medal 🥉 in ICPC EC-Final 2019.
-
-Dreaming to be a full stack developer and a beautiful girl 🏳️‍⚧️.
+Dreaming to be a great teacher and a beautiful girl 🏳️‍⚧️.
 
 [Mail to me](mailto:woruo@woruo.online)
 
