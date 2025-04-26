@@ -2,7 +2,7 @@
 
 I'm 沃若 (woruo)! As most people know, I love **competitive programming**. Got bronze medal 🥉 in ICPC Asia East Continent Final 2019.
 
-Dreaming to be a great teacher and a beautiful girl 🏳️‍⚧️.
+Dreaming to be a great teacher and a free human.
 
 [Mail to me](mailto:woruo@woruo.online)
 
